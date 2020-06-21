@@ -15,6 +15,14 @@ header{
     padding: 15rem 0;
 }
 
+h1, h2, h3{
+    font-weight: 800 !important;
+}
+
+h4, h5{
+    font-weight: 600 !important;
+}
+
 p{
     font-family: 'Raleway', sans-serif;
 }
@@ -45,4 +53,8 @@ header a:hover *{
 
 #descripcion img{
     width: 100%;
+}
+
+#experiencia .lntp{
+    border-style: dashed none none none;
 }
