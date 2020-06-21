@@ -1,0 +1,44 @@
+body{
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+nav{
+    right: 0 !important;
+    margin-right: 2rem;
+}
+
+header{
+    background-image: url(../img/Header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 15rem 0;
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+}
+
+header h1{
+    font-weight: 600 !important;
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+header h4{
+    font-family: 'Raleway', sans-serif;
+    color: #f39200 !important;
+}
+
+header a:link, a:visited{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+header a:hover *{
+    color: #f39200;
+}
+
+.lntp{
+    border-top: solid;
+}
