@@ -43,7 +43,7 @@ header a:link, a:visited{
     color: #ffffff;
 }
 
-header a:hover *{
+header a:hover, footer a:hover, #descripcion a:hover{
     color: #f39200;
 }
 
@@ -67,11 +67,19 @@ header a:hover *{
     background-color: #000000;
 }
 
-#trabajos h2{
+#trabajos h4{
     color: #f39200;
+}
+
+#trabajos h2 {
+    color: #ffffff;
 }
 
 #trabajos a {
     color: #f39200;
     text-decoration: none;
+}
+
+#trabajos .card a:hover {
+    color: #000000;
 }
