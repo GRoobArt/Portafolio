@@ -2,7 +2,7 @@ body{
     font-family: 'Montserrat', sans-serif !important;
 }
 
-nav{
+nav, #trabajos, footer{
     background-color: #000000;
 }
 
@@ -60,10 +60,6 @@ header a:hover, footer a:hover, #descripcion a:hover{
 
 #experiencia .lntp{
     border-style: dashed none none none;
-}
-
-#trabajos, footer {
-    background-color: #000000;
 }
 
 #trabajos h4{
