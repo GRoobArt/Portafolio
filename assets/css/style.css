@@ -22,7 +22,7 @@ h4, h5{
     font-weight: 600 !important;
 }
 
-p{
+p, li{
     font-family: 'Raleway', sans-serif;
 }
 
@@ -95,7 +95,7 @@ header a:hover, footer a:hover, #descripcion a:hover{
         display: none;
     }
 
-    .card p {
+    .card-text {
         display: none;
     }
 }
@@ -108,7 +108,7 @@ header a:hover, footer a:hover, #descripcion a:hover{
     header h4{
         font-size: 1.5rem !important ;
     }
-    #experiencia h2, #trabajos h2 {
+    #experiencia h2, #trabajos h2, #contacto h2 {
         font-size: 2rem;
         text-align: left !important;
     }
