@@ -42,3 +42,7 @@ header a:hover *{
 .lntp{
     border-top: solid;
 }
+
+#descripcion img{
+    width: 100%;
+}
