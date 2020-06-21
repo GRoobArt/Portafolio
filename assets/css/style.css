@@ -55,6 +55,7 @@ header a:hover, footer a:hover, #descripcion a:hover{
 
 #descripcion a{
     color: #000000;
+    text-decoration: none;
 }
 
 #experiencia .lntp{
@@ -117,5 +118,9 @@ header a:hover, footer a:hover, #descripcion a:hover{
     }
     .oculto{
         display: none !important;
+    }
+    #experiencia h2{
+        padding-bottom: 0.5rem;
+        border-bottom: solid;
     }
 }
