@@ -55,6 +55,23 @@ header a:hover *{
     width: 100%;
 }
 
+#descripcion a{
+    color: #000000;
+}
+
 #experiencia .lntp{
     border-style: dashed none none none;
+}
+
+#trabajos, footer {
+    background-color: #000000;
+}
+
+#trabajos h2{
+    color: #f39200;
+}
+
+#trabajos a {
+    color: #f39200;
+    text-decoration: none;
 }
