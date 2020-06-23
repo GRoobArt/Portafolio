@@ -12,6 +12,7 @@ header{
     background-size: cover;
     background-position: center;
     padding: 15rem 0;
+    height: 100vh;
 }
 
 h1, h2, h3{
